@@ -74,7 +74,6 @@ def start(core:VACore):
 
         "commands": {
             "базар|гигачат": run_start,
-            "поясни": run_start_spravka,
         }
     }
     return manifest
