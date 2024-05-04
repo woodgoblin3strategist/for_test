@@ -9,7 +9,7 @@ import os
 import json #мб нужно для связи с настройками
 
 import requests # туда же
-import gigachain
+#import gigachain
 
 old_merge_environment_settings = requests.Session.merge_environment_settings
 
